@@ -1,5 +1,11 @@
 [package]
-
 name = "libsctp-sys"
 version = "0.0.1"
 authors = ["Mike Dilger <mike@efx.co.nz>"]
+build = "build.rs"
+license = "MIT/Apache-2.0"
+description = "Native Bindings to Linux kernel SCTP networking"
+
+[lib]
+name = "libsctp-sys"
+path = "lib.rs"
