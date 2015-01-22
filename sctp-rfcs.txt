@@ -1,0 +1,40 @@
+
+    RFC 7053 SACK-IMMEDIATELY Extension for the Stream Control Transmission Protocol (updates RFC 4960)
+	**** (not in lksctp)
+    RFC 6525 Stream Control Transmission Protocol (SCTP) Stream Reconfiguration
+	**** (not in lksctp) Reset stream sequence to zero - 2012
+    RFC 6458 Sockets API Extensions for the Stream Control Transmission Protocol (SCTP)
+	(not listed in lksctp, BUT IS) Socket API extensions
+        scpt_sendmsg(), sctp_recvmsg()
+    RFC 6096 Stream Control Transmission Protocol (SCTP) Chunk Flags Registration (updates RFC 4960)
+	**** (not in lksctp) - 2011
+    RFC 5062 Security Attacks Found Against the Stream Control Transmission Protocol (SCTP) and Current Countermeasures
+	lksctp supports.
+    RFC 5061 Stream Control Transmission Protocol (SCTP) Dynamic Address Reconfiguration
+	lksctp supports.
+    RFC 5043 Stream Control Transmission Protocol (SCTP) Direct Data Placement (DDP) Adaptation
+	(not in lksctp) adapt DDP to SCTP
+    RFC 4960 Stream Control Transmission Protocol
+	lksctp supports.
+    RFC 4895 Authenticated Chunks for the Stream Control Transmission Protocol (SCTP)
+	lksctp supports.
+    RFC 4820 Padding Chunk and Parameter for the Stream Control Transmission Protocol (SCTP)
+        **** (not in lksctp)
+    RFC 4460 Stream Control Transmission Protocol (SCTP) Specification Errata and Issues
+	lksctp supports.
+    RFC 3873 Stream Control Transmission Protocol (SCTP) Management Information Base (MIB)
+	lksctp supports.
+    RFC 3758 Stream Control Transmission Protocol (SCTP) Partial Reliability Extension
+	lksctp supports.
+    RFC 3554 On the Use of Stream Control Transmission Protocol (SCTP) with IPsec
+        (not in lksctp) use with IPsec
+    RFC 3436 Transport Layer Security over Stream Control Transmission Protocol
+    	(not in lksctp) TLS on SCTP
+    RFC 3309 Stream Control Transmission Protocol (SCTP) Checksum Change (obsoleted by RFC 4960)
+	lksctp supports.
+    RFC 3286 An Introduction to the Stream Control Transmission Protocol
+    	no changes.
+    RFC 3257 Stream Control Transmission Protocol Applicability Statement
+        no changes.
+    RFC 2960 Stream Control Transmission Protocol (updated by RFC 3309 and obsoleted by RFC 4960)
+	lksctp supports.
