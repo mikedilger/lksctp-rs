@@ -1,0 +1,5 @@
+[package]
+
+name = "lksctp"
+version = "0.0.1"
+authors = ["Mike Dilger <mike@efx.co.nz>"]
