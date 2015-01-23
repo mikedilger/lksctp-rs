@@ -3,3 +3,5 @@
 name = "lksctp"
 version = "0.0.1"
 authors = ["Mike Dilger <mike@efx.co.nz>"]
+license = "MIT"
+description = "Linux Kernel SCTP low-level bindings"
